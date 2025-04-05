@@ -10,4 +10,4 @@ It's a joke virus that constantly creates GDI pictures of caracals.
 - The process is not critical
 - To disable the virus, just close it in the task manager.
 
-- # next virus(nothing here yet)
+*The list is likely to grow*
