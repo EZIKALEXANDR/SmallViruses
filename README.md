@@ -21,5 +21,5 @@ Displays one to three messages in a random part of the screen
 - It is not added to autostart
 - There are two variations, with and without the critical process
 - To disable the virus, re-enter the system or close it in taskmgr
-- 
+
 *The list is likely to grow*
