@@ -1,8 +1,8 @@
 # SmallViruses
 A repository of my little viruses/jokes.
 
-[**Caracal Spam**](https://github.com/EZIKALEXANDR/SmallViruses?tab=readme-ov-file#caracal-spam) - [**Up Volume**](https://github.com/EZIKALEXANDR/SmallViruses?tab=readme-ov-file#up-volume) - [**Joke Adware**](https://github.com/EZIKALEXANDR/SmallViruses?tab=readme-ov-file#up-volume)
-# Caracal Spam 
+[**Caracals Spam**](https://github.com/EZIKALEXANDR/SmallViruses?tab=readme-ov-file#caracal-spam) - [**Up Volume**](https://github.com/EZIKALEXANDR/SmallViruses?tab=readme-ov-file#up-volume) - [**Joke Adware**](https://github.com/EZIKALEXANDR/SmallViruses?tab=readme-ov-file#up-volume)
+# Caracals Spam 
 It's a joke virus that constantly creates GDI pictures of caracals.
 
 ![123](https://github.com/user-attachments/assets/3a1b5a6d-a537-41d0-92ba-d9b976be6945)
