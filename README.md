@@ -17,7 +17,7 @@ Continuously raises the volume to 100%
 - The process is critical and a BSOD appears when closing it
 - To disable the virus, re-enter the system
 # Joke adware
-Displays one to three messages in a random part of the screen
+Displays one of eight notifications in a random part of the screen.
 - It is not added to autostart
 - There are two variations, with and without the critical process
 - To disable the virus, re-enter the system or close it in taskmgr
